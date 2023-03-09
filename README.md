@@ -10,7 +10,7 @@ Supports:
 
 - Search operations for specific accounts and transactions
 
-- Returning ccount summary
+- Returning account summary
 
 - Listing all incoming and outgoing transactions of an account
 
